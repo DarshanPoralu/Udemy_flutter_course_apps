@@ -1,6 +1,14 @@
 # i_am_poor
 
-A new Flutter project.
+## What you will create
+
+I am poor is just a basic app that displays image.
+
+## What you will learn
+
+* How to add title
+* How to add background color
+* How to add and display image
 
 ## Getting Started
 
